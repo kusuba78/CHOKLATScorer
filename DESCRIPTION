@@ -1,0 +1,11 @@
+Package: CHOKLATscorer
+Type: Package
+Title: Canadian Hemophilia Outocme - Kids Life Assessment Tool Score Calculation
+Version: 0.1.0
+Author: Koyo Usuba
+Maintainer: Koyo Usuba <kusuba@laurentian.ca>
+Description: Calculate the summary score of the CHO-KLAT.
+Encoding: UTF-8
+License: Unlimited
+LazyData: true
+RoxygenNote: 7.1.0
